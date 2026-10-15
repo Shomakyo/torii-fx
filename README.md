@@ -1,12 +1,12 @@
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-    <img src="assets/banner-light.svg" alt="torii, by Inari Suite. Least privilege for FiveM resources." width="100%">
+    <img src="assets/banner-light.svg" alt="torii, by Shomakyo. Least privilege for FiveM resources." width="100%">
   </picture>
 </p>
 
 <p align="center">
-  <a href="https://github.com/inari-suite-org/torii-fx/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/inari-suite-org/torii-fx/actions/workflows/ci.yml/badge.svg"></a>
+  <a href="https://github.com/shomakyo/torii-fx/actions/workflows/ci.yml"><img alt="CI" src="https://github.com/shomakyo/torii-fx/actions/workflows/ci.yml/badge.svg"></a>
   <img alt="MIT license" src="https://img.shields.io/badge/license-MIT-C8432A?style=flat-square&labelColor=121A1A">
   <img alt="Lua 5.4" src="https://img.shields.io/badge/Lua-5.4-121A1A?style=flat-square">
   <img alt="Tested on FXServer build 36897" src="https://img.shields.io/badge/FXServer-build%2036897-121A1A?style=flat-square">
@@ -275,7 +275,7 @@ npm test                                 # CLI tests, no dependencies
 
 ## How it is built
 
-torii is designed and maintained by Inari Suite: the permission model, the threat model and every release decision
+torii is designed and maintained by Shomakyo: the permission model, the threat model and every release decision
 are ours. Like many projects today, we use AI-assisted tools in our workflow.
 
 A security tool should not ask for blind trust, so everything that matters can be checked: the test suites

@@ -20,7 +20,7 @@ serveurs. torii donne à chaque script une liste de ce qu'il a le droit de faire
 - Un accès au `server.cfg` (txAdmin a un **CFG Editor** dans son menu).
 - Un ordinateur Windows, macOS ou Linux avec **Node.js 18 ou plus récent** ([nodejs.org](https://nodejs.org), version
   « LTS »). Node sert à lancer l'outil torii **sur votre ordinateur**. Votre serveur n'en a pas besoin.
-- torii lui-même : sur la [page GitHub](https://github.com/inari-suite-org/torii-fx), cliquez sur **Code**, puis
+- torii lui-même : sur la [page GitHub](https://github.com/shomakyo/torii-fx), cliquez sur **Code**, puis
   **Download ZIP**, et décompressez-le sur votre ordinateur.
 
 ## 1. Faites une sauvegarde

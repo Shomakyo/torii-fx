@@ -54,5 +54,5 @@ First public release, **experimental**: tested on a development server only.
 - The ox_lib preset only grants the read-only release-check paths, not the whole `api.github.com/repos/overextended`
   prefix, which also accepts issues and comments.
 
-[0.2.0]: https://github.com/inari-suite-org/torii-fx/releases/tag/v0.2.0
-[0.1.0]: https://github.com/inari-suite-org/torii-fx/commit/2f56e94
+[0.2.0]: https://github.com/shomakyo/torii-fx/releases/tag/v0.2.0
+[0.1.0]: https://github.com/shomakyo/torii-fx/commit/2f56e94

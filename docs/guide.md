@@ -19,7 +19,7 @@ reports (observe mode) or blocks (enforce mode) everything else.
 - Access to `server.cfg` (txAdmin has a **CFG Editor** in its menu).
 - A Windows, macOS or Linux computer with **Node.js 18 or newer** ([nodejs.org](https://nodejs.org), "LTS" version).
   Node runs the torii tool on **your computer**. Your server does not need it.
-- torii itself: on the [GitHub page](https://github.com/inari-suite-org/torii-fx), click **Code**, then
+- torii itself: on the [GitHub page](https://github.com/shomakyo/torii-fx), click **Code**, then
   **Download ZIP**, and unzip it on your computer.
 
 ## 1. Make a backup
