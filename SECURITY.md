@@ -8,6 +8,7 @@ vulnerability**, even if it is only possible from inside the Lua VM.
 Please report privately and do not open a public issue:
 
 * Use GitHub's **private vulnerability reporting** ("Security" tab, "Report a vulnerability") on this repository.
+* If GitHub is not an option, write to shomakyo@proton.me. Do not put details in a public place.
 * Include: the FXServer build (`version` in the console), your `torii_mode`, a minimal resource that shows the
   bypass, and what you expected torii to do. A failing `busted` test is perfect.
 
